@@ -1,16 +1,13 @@
-## Hi there 👋
+# Critical State
 
-<!--
-**CriticalCai/CriticalCai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`systems, agents, small experiments, and things that should probably work.`
 
-Here are some ideas to get you started:
+I like problems that cross layers: state, control, interfaces, memory, and agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- building small tools
+- debugging assumptions before symptoms
+- keeping a few too many tabs open
+
+Elsewhere: [u/chat_Lan](https://www.reddit.com/user/chat_Lan/)
+
+> The problem is probably not on the layer you're looking at.
